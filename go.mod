@@ -1,4 +1,4 @@
-module github.com/ipfs/go-ipfs-example-plugin
+module github.com/StephanieSunshine/go-ipfs-spider-plugin
 
 go 1.14
 
